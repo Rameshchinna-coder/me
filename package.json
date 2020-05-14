@@ -4,12 +4,12 @@
   "private": true,
   "homepage": "https://Rameshchinna-coder.github.io/me",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "2.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "2.1.5",
-    "travis": "^0.1.1",
-    "yarn": "^1.13.0"
+    "travis": "0.1.1",
+    "yarn": "1.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
